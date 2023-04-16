@@ -16,7 +16,7 @@
   <widget class="QTextEdit" name="outputBox">
    <property name="geometry">
     <rect>
-     <x>60</x>
+     <x>20</x>
      <y>120</y>
      <width>181</width>
      <height>151</height>

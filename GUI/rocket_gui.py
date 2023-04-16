@@ -1,7 +1,7 @@
 #TODO: GET PY QT DESIGNER TO MAKE IT EASY TO MAKE THE GUI
 
 from PyQt6.QtCore import QThread, pyqtSignal, QMetaObject
-from PyQt6.QtWidgets import QApplication, QWidget, QTextEdit, QPushButton
+from PyQt6.QtWidgets import QApplication, QWidget, QTextEdit, QPushButton, QGraphicsWidget
 from PyQt6 import uic, QtCore
 from serial import Serial, unicode
 
